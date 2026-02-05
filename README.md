@@ -1,8 +1,15 @@
 # Awesome 3DGS IP Protection
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2602.03878-B31B1B.svg)](https://arxiv.org/abs/2602.03878) [![Survey](https://img.shields.io/badge/Type-Survey-6FAFB0.svg)](#survey) [![3DGS](https://img.shields.io/badge/Topic-3D%20Gaussian%20Splatting-C9B458.svg)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) [![IP Protection](https://img.shields.io/badge/Focus-IP%20Protection-E0A84F.svg)](#) [![Last Update](https://img.shields.io/badge/Updated-Actively-EADCC8.svg)](#)
+
+
 
 A curated list of papers and resources on **Intellectual Property (IP) protection for 3D Gaussian Splatting (3DGS)**, including watermarking, steganography, tampering localization, and editing safeguards.
 
 This repository is maintained alongside our survey and will be continuously updated.
+
+<!-- <p align="center">
+  <img src="framework.png" width="100%">
+</p> -->
 
 **Table of Contents**
 - [Awesome 3DGS IP Protection](#awesome-3dgs-ip-protection)
@@ -12,6 +19,7 @@ This repository is maintained alongside our survey and will be continuously upda
   - [3DGS Tampering Localization](#3dgs-tampering-localization)
   - [3DGS Editing Safeguard](#3dgs-editing-safeguard)
   - [Citation](#citation)
+
 
 
 ## Survey
@@ -26,7 +34,7 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[CVPR 2025]** GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2411.19895)][[Code](https://github.com/NarcissusEx/GuardSplat)]
 - **[ACMMM 2025]** MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure [[Paper](https://dl.acm.org/doi/10.1145/3746027.3758144)][[Code](https://github.com/kevinhuangxf/marksplatter)]
 - **[TIFS 2025]** MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation [[Paper](https://ieeexplore.ieee.org/document/11263898/)]
-- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [[Paper](https://openreview.net/forum?id=cfxnpmYC7N)]
+- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [Paper](https://openreview.net/forum?id=cfxnpmYC7N)
 - **[arXiv 2025]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
 - **[arXiv 2025]** GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model [[Paper](https://arxiv.org/abs/2503.00531)]
 - **[arXiv 2025]** GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.18718)]
