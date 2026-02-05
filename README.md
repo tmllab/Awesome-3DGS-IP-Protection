@@ -26,7 +26,7 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[CVPR 2025]** GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2411.19895)][[Code](https://github.com/NarcissusEx/GuardSplat)]
 - **[ACMMM 2025]** MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure [[Paper](https://dl.acm.org/doi/10.1145/3746027.3758144)][[Code](https://github.com/kevinhuangxf/marksplatter)]
 - **[TIFS 2025]** MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation [[Paper](https://ieeexplore.ieee.org/document/11263898/)]
-- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [Paper](https://openreview.net/forum?id=cfxnpmYC7N)
+- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [[Paper](https://openreview.net/forum?id=cfxnpmYC7N)]
 - **[arXiv 2025]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
 - **[arXiv 2025]** GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model [[Paper](https://arxiv.org/abs/2503.00531)]
 - **[arXiv 2025]** GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.18718)]
