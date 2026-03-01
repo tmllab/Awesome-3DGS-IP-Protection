@@ -28,6 +28,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ## 3DGS Watermarking
+- **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
 - **[ICLR 2026]** NGS-Marker: Neural Gaussian Splatting Marker for Robust Watermarking [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
 - **[ICLR 2026]** CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=NXQvejGBFx)]
 - **[CVPR 2025]** 3D-GSW: 3D Gaussian Splatting for Robust Watermarking [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_3D-GSW_3D_Gaussian_Splatting_for_Robust_Watermarking_CVPR_2025_paper.html)][[Code](https://github.com/kuai-lab/cvpr25_3D-GSW)]
