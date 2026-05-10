@@ -45,6 +45,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ## 3DGS Steganography
+- **[ICML 2026]** WhisperSplat: Lossless Steganography in 3D Gaussian Splatting [[Paper](https://icml.cc/virtual/2026/poster/64147)]
 - **[ICLR 2026]** All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=CcxIDaTfLB)][[Code](https://github.com/RY-Paper/KeySS)]
 - **[AAAI 2026]** Splats in Splats: Robust and Effective 3D Steganography towards Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.03121)][[Code](https://github.com/insightlab-CG-3DV/splats-in-splats)]
 - **[ICLR 2025]** InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting [[Paper](https://openreview.net/forum?id=xvhV3LvYTc)][[Code](https://github.com/CUHK-AIM-Group/InstantSplamp)]
@@ -61,7 +62,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ## 3DGS Editing Safeguard
-- **[arXiv 2025]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
+- **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
 - **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
 
 
