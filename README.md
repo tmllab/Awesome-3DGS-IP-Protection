@@ -28,6 +28,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ## 3DGS Watermarking
+- **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
 - **[ICLR 2026]** NGS-Marker: Neural Gaussian Splatting Marker for Robust Watermarking [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
 - **[ICLR 2026]** CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=NXQvejGBFx)]
@@ -62,6 +63,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ## 3DGS Editing Safeguard
+- **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
 - **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
 
