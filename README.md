@@ -1,4 +1,4 @@
-# Awesome 3DGS IP Protection
+# Awesome 3D/4DGS IP Protection
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2602.03878-B31B1B.svg)](https://arxiv.org/abs/2602.03878) [![Survey](https://img.shields.io/badge/Type-Survey-6FAFB0.svg)](#survey) [![3DGS](https://img.shields.io/badge/Topic-3D%20Gaussian%20Splatting-C9B458.svg)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) [![IP Protection](https://img.shields.io/badge/Focus-IP%20Protection-E0A84F.svg)](#) [![Last Update](https://img.shields.io/badge/Updated-Actively-EADCC8.svg)](#)
 
 
@@ -14,10 +14,13 @@ This repository is maintained alongside our survey and will be continuously upda
 **Table of Contents**
 - [Awesome 3DGS IP Protection](#awesome-3dgs-ip-protection)
   - [Survey](#survey)
-  - [3DGS Watermarking](#3dgs-watermarking)
-  - [3DGS Steganography](#3dgs-steganography)
-  - [3DGS Tampering Localization](#3dgs-tampering-localization)
-  - [3DGS Editing Safeguard](#3dgs-editing-safeguard)
+  - [Data-level Protection](#data-level-protection)
+    - [Watermarking](#watermarking)
+    - [Steganography](#steganography)
+    - [Editing Safeguard](#editing-safeguard)
+    - [Tampering Localization](#tampering-localization)
+    - [Provenance Analysis](#provenance-analysis)
+  - [Model-level Protection](#model-level-protection)
   - [Citation](#citation)
 
 
@@ -27,7 +30,9 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[arXiv 2026]** Intellectual Property Protection for 3D Gaussian Splatting Assets: A Survey [[Paper](https://arxiv.org/abs/2602.03878)]
 
 
-## 3DGS Watermarking
+## Data-level Protection
+### Watermarking
+- **[arXiv 2026]** 4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.22342)]
 - **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
 - **[ICLR 2026]** NGS-Marker: Neural Gaussian Splatting Marker for Robust Watermarking [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
@@ -45,10 +50,11 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[arXiv 2024]** WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking [[Paper](https://arxiv.org/abs/2412.05695)]
 
 
-## 3DGS Steganography
+### Steganography
 - **[ICML 2026]** WhisperSplat: Lossless Steganography in 3D Gaussian Splatting [[Paper](https://icml.cc/virtual/2026/poster/64147)]
 - **[ICLR 2026]** All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=CcxIDaTfLB)][[Code](https://github.com/RY-Paper/KeySS)]
 - **[AAAI 2026]** Splats in Splats: Robust and Effective 3D Steganography towards Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.03121)][[Code](https://github.com/insightlab-CG-3DV/splats-in-splats)]
+- **[ICRA 2026]** Hide-in-Motion: Embedding Steganographic Copyright Information into 4D Gaussian Splatting Assets [[Paper](https://ieeexplore.ieee.org/abstract/document/11128285?casa_token=CGOahziYaWcAAAAA:ir4hZTafcZH6mIA02yGqy7DVQtnfG6TlwTP5XEfU-5xgmGV_DEHHLKMtTDLWgnrJ87ASwHqiqLo)][[Code](https://github.com/CUHK-AIM-Group/Hide-in-Motion)]
 - **[ICLR 2025]** InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting [[Paper](https://openreview.net/forum?id=xvhV3LvYTc)][[Code](https://github.com/CUHK-AIM-Group/InstantSplamp)]
 - **[ICLR 2025]** SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography [[Paper](https://openreview.net/forum?id=H4FSx06FCZ)]
 - **[SIGGRAPH 2025]** Hide A Bit: A Training-Free and High-Fidelity Steganography Method for 3D Gaussian Splatting Based on Bit Manipulation and RSA Encryption [[Paper](https://dl.acm.org/doi/full/10.1145/3721250.3743009)]
@@ -56,16 +62,21 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICASSP 2025]** ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting [[Paper](https://ieeexplore.ieee.org/abstract/document/10890299)][[Code](https://github.com/zxk1212/ConcealGS)]
 - **[NeurIPS 2024]** GS-Hider: Hiding Messages into 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=3XLQp2Xx3J&noteId=pVxlxrI17Y)][[Code](https://github.com/xuanyuzhang21/GS-Hider)]
 
-
-
-## 3DGS Tampering Localization
-- **[AAAI 2026]** GS-Checker: Tampering Localization for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2511.20354)][[Code](https://github.com/haolianghan/GS-Checker)]
-
-
-## 3DGS Editing Safeguard
+### Editing Safeguard
 - **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
 - **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
+
+### Tampering Localization
+- **[AAAI 2026]** GS-Checker: Tampering Localization for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2511.20354)][[Code](https://github.com/haolianghan/GS-Checker)]
+
+### Provenance Analysis
+- **[ICML 2026]** GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning [[Paper](https://openreview.net/forum?id=h9g5j4JFv8)]
+
+## Model-level Protection
+
+- **[arXiv 2026]** 3DEditSafe: Defending 3D Editing Pipelines from Unsafe Generation [[Paper](https://arxiv.org/abs/2605.15398)]
+- **[arXiv 2026]** Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps [[Paper](https://arxiv.org/abs/2604.09688)]
 
 
 ## Citation
