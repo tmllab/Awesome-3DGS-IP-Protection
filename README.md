@@ -19,7 +19,7 @@ This repository is maintained alongside our survey and will be continuously upda
     - [Steganography](#steganography)
     - [Editing Safeguard](#editing-safeguard)
     - [Tampering Localization](#tampering-localization)
-    - [Provenance Analysis](#provenance-analysis)
+    - [Traceability and Provenance](#traceability-and-provenance)
   - [Model-level Protection](#model-level-protection)
   - [Citation](#citation)
 
@@ -70,7 +70,8 @@ This repository is maintained alongside our survey and will be continuously upda
 ### Tampering Localization
 - **[AAAI 2026]** GS-Checker: Tampering Localization for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2511.20354)][[Code](https://github.com/haolianghan/GS-Checker)]
 
-### Provenance Analysis
+### Traceability and Provenance
+- **[arXiv 2026]** Who Generated This 3D Asset? Learning Source Attribution for Generative 3D Models [[Paper](https://arxiv.org/abs/2605.18132)]
 - **[ICML 2026]** GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning [[Paper](https://openreview.net/forum?id=h9g5j4JFv8)]
 
 ## Model-level Protection
