@@ -32,6 +32,8 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[CVPR 2026]** Robust3DGSW: Toward Robust Watermarking for Quantization-Aware 3D Gaussian Splatting [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Robust3DGSW_Toward_Robust_Watermarking_for_Quantization-Aware_3D_Gaussian_Splatting_CVPR_2026_paper.html)]
+- **[CVPR 2026]** Where, What, Why: Toward Explainable 3D-GS Watermarking [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Where_What_Why_Toward_Explainable_3D-GS_Watermarking_CVPR_2026_paper.html)]
 - **[CVPR 2026]** Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Write_Where_It_Matters_Policy-Guided_Watermarks_for_3D_Gaussian_Splatting_CVPR_2026_paper.html)]
 - **[CVPR 2026]** Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Mark4D_Temporally-Consistent_Watermarking_for_4D_Gaussian_Splatting_CVPR_2026_paper.html)]
 - **[arXiv 2026]** 4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.22342)]
