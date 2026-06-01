@@ -32,6 +32,8 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[CVPR 2026]** Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Write_Where_It_Matters_Policy-Guided_Watermarks_for_3D_Gaussian_Splatting_CVPR_2026_paper.html)]
+- **[CVPR 2026]** Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Mark4D_Temporally-Consistent_Watermarking_for_4D_Gaussian_Splatting_CVPR_2026_paper.html)]
 - **[arXiv 2026]** 4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.22342)]
 - **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
@@ -62,17 +64,17 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICASSP 2025]** ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting [[Paper](https://ieeexplore.ieee.org/abstract/document/10890299)][[Code](https://github.com/zxk1212/ConcealGS)]
 - **[NeurIPS 2024]** GS-Hider: Hiding Messages into 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=3XLQp2Xx3J&noteId=pVxlxrI17Y)][[Code](https://github.com/xuanyuzhang21/GS-Hider)]
 
-### Editing Safeguard
-- **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
-- **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
-- **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
-
 ### Tampering Localization
 - **[AAAI 2026]** GS-Checker: Tampering Localization for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2511.20354)][[Code](https://github.com/haolianghan/GS-Checker)]
 
 ### Traceability and Provenance
 - **[arXiv 2026]** Who Generated This 3D Asset? Learning Source Attribution for Generative 3D Models [[Paper](https://arxiv.org/abs/2605.18132)]
 - **[ICML 2026]** GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning [[Paper](https://openreview.net/forum?id=h9g5j4JFv8)]
+
+### Editing Safeguard
+- **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
+- **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
+- **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
 
 ## Model-level Protection
 
