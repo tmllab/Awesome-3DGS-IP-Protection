@@ -17,9 +17,9 @@ This repository is maintained alongside our survey and will be continuously upda
   - [Data-level Protection](#data-level-protection)
     - [Watermarking](#watermarking)
     - [Steganography](#steganography)
-    - [Editing Safeguard](#editing-safeguard)
     - [Tampering Localization](#tampering-localization)
     - [Traceability and Provenance](#traceability-and-provenance)
+    - [Editing Safeguard](#editing-safeguard)
   - [Model-level Protection](#model-level-protection)
   - [Citation](#citation)
 
@@ -43,13 +43,13 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICASSP 2026]** S3-3DGS: Steering Spherical-Harmonic Subspaces for Secure 3DGS Watermarking [[Paper](https://ieeexplore.ieee.org/abstract/document/11460630)]
 - **[AAAI 2026]** Fading the Digital Ink: A Universal Black-Box Attack Framework for 3DGS Watermarking Systems [[Paper](https://arxiv.org/abs/2508.07263)]
 - **[AAAI 2026]** Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting? [[Paper](https://arxiv.org/abs/2511.22262)]
-- **[ICLR 2026]** NGS-Marker: Neural Gaussian Splatting Marker for Robust Watermarking [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
-- **[ICLR 2026]** CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=NXQvejGBFx)]
+- **[ICLR 2026]** NGS-Marker: Robust Native Watermarking for 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
+- **[ICLR 2026]** CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=NXQvejGBFx)][[Code](https://github.com/kuai-lab/iclr26_CompMarkGS)]
 - **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
 - **[arXiv 2025]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
 - **[arXiv 2025]** GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model [[Paper](https://arxiv.org/abs/2503.00531)]
 - **[arXiv 2025]** GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.18718)]
-- **[arXiv 2025]** RDSplat: Robust and Diverse Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2512.06774)]
+- **[arXiv 2025]** RDSplat: Robust Watermarking for 3D Gaussian Splatting Against 2D and 3D Diffusion Editing [[Paper](https://arxiv.org/abs/2512.06774)]
 - **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [Paper](https://openreview.net/forum?id=cfxnpmYC7N)
 - **[CVPR 2025]** 3D-GSW: 3D Gaussian Splatting for Robust Watermarking [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_3D-GSW_3D_Gaussian_Splatting_for_Robust_Watermarking_CVPR_2025_paper.html)][[Code](https://github.com/kuai-lab/cvpr25_3D-GSW)]
 - **[CVPR 2025]** GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2411.19895)][[Code](https://github.com/NarcissusEx/GuardSplat)]
@@ -66,7 +66,7 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICML 2026]** WhisperSplat: Lossless Steganography in 3D Gaussian Splatting [[Paper](https://icml.cc/virtual/2026/poster/64147)]
 - **[ICLR 2026]** All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=CcxIDaTfLB)][[Code](https://github.com/RY-Paper/KeySS)]
 - **[AAAI 2026]** Splats in Splats: Robust and Effective 3D Steganography towards Gaussian Splatting [[Paper](https://arxiv.org/abs/2412.03121)][[Code](https://github.com/insightlab-CG-3DV/splats-in-splats)]
-- **[ICRA 2026]** Hide-in-Motion: Embedding Steganographic Copyright Information into 4D Gaussian Splatting Assets [[Paper](https://ieeexplore.ieee.org/abstract/document/11128285?casa_token=CGOahziYaWcAAAAA:ir4hZTafcZH6mIA02yGqy7DVQtnfG6TlwTP5XEfU-5xgmGV_DEHHLKMtTDLWgnrJ87ASwHqiqLo)][[Code](https://github.com/CUHK-AIM-Group/Hide-in-Motion)]
+- **[ICRA 2026]** Hide-in-Motion: Embedding Steganographic Copyright Information into 4D Gaussian Splatting Assets [[Paper](https://ieeexplore.ieee.org/abstract/document/11128285)][[Code](https://github.com/CUHK-AIM-Group/Hide-in-Motion)]
 - **[ICLR 2025]** InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting [[Paper](https://openreview.net/forum?id=xvhV3LvYTc)][[Code](https://github.com/CUHK-AIM-Group/InstantSplamp)]
 - **[ICLR 2025]** SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography [[Paper](https://openreview.net/forum?id=H4FSx06FCZ)]
 - **[SIGGRAPH 2025]** Hide A Bit: A Training-Free and High-Fidelity Steganography Method for 3D Gaussian Splatting Based on Bit Manipulation and RSA Encryption [[Paper](https://dl.acm.org/doi/full/10.1145/3721250.3743009)]
