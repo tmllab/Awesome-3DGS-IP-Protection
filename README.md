@@ -50,7 +50,7 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[arXiv 2025]** GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model [[Paper](https://arxiv.org/abs/2503.00531)]
 - **[arXiv 2025]** GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.18718)]
 - **[arXiv 2025]** RDSplat: Robust Watermarking for 3D Gaussian Splatting Against 2D and 3D Diffusion Editing [[Paper](https://arxiv.org/abs/2512.06774)]
-- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [Paper](https://openreview.net/forum?id=cfxnpmYC7N)
+- **[OpenReview 2025]** Mark3DGS: Protecting the Intellectual Property of 3D Gaussian Splatting with Robust Watermarking [[Paper](https://openreview.net/forum?id=cfxnpmYC7N)]
 - **[CVPR 2025]** 3D-GSW: 3D Gaussian Splatting for Robust Watermarking [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_3D-GSW_3D_Gaussian_Splatting_for_Robust_Watermarking_CVPR_2025_paper.html)][[Code](https://github.com/kuai-lab/cvpr25_3D-GSW)]
 - **[CVPR 2025]** GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2411.19895)][[Code](https://github.com/NarcissusEx/GuardSplat)]
 - **[ACMMM 2025]** MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure [[Paper](https://dl.acm.org/doi/10.1145/3746027.3758144)][[Code](https://github.com/kevinhuangxf/marksplatter)]
