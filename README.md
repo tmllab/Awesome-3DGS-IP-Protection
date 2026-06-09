@@ -32,6 +32,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[Applied Sciences 2026]** Uncertainty-Guided Zero-Watermarking for 3D Gaussian Splatting [[Paper](https://www.mdpi.com/2076-3417/16/11/5645)]
 - **[arXiv 2026]** BitC-3DGS: High-Capacity 3D Gaussian Splatting Watermarking via Bit Compression [[Paper](https://arxiv.org/abs/2605.29583)]
 - **[arXiv 2026]** 4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.22342)]
 - **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
