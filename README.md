@@ -63,6 +63,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 
 ### Steganography
+- **[TMM 2026]** IBRSteG: Learning a Generalizable Steganography Framework for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2606.30024)]
 - **[arXiv 2026]** Splats in Splats++: Robust and Generalizable 3D Gaussian Splatting Steganography [[Paper](https://arxiv.org/abs/2604.15862)]
 - **[ICML 2026]** WhisperSplat: Lossless Steganography in 3D Gaussian Splatting [[Paper](https://icml.cc/virtual/2026/poster/64147)]
 - **[ICLR 2026]** All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=CcxIDaTfLB)][[Code](https://github.com/RY-Paper/KeySS)]
