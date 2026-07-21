@@ -32,6 +32,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[ICIC 2026]** Sparse WaterGS: Efficient Watermarking for Sparse-View Reconstructed 3D Gaussian [[Paper](https://books.google.com.sg/books?hl=en&lr=&id=X0b1EQAAQBAJ&oi=fnd&pg=PA41&dq=+Sparse+WaterGS:+Efficient+Watermarking+for+Sparse-View+Reconstructed+3D+Gaussian&ots=OQhCTwUlO5&sig=Yl2gnrl4UXsgdHmKz9N5fvCUdFo&redir_esc=y#v=onepage&q=Sparse%20WaterGS%3A%20Efficient%20Watermarking%20for%20Sparse-View%20Reconstructed%203D%20Gaussian&f=false)]
 - **[Applied Sciences 2026]** Uncertainty-Guided Zero-Watermarking for 3D Gaussian Splatting [[Paper](https://www.mdpi.com/2076-3417/16/11/5645)]
 - **[arXiv 2026]** BitC-3DGS: High-Capacity 3D Gaussian Splatting Watermarking via Bit Compression [[Paper](https://arxiv.org/abs/2605.29583)]
 - **[arXiv 2026]** 4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.22342)]
