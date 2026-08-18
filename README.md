@@ -86,6 +86,7 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICML 2026]** GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning [[Paper](https://openreview.net/forum?id=h9g5j4JFv8)]
 
 ### Editing Safeguard
+- **[ICIP 2026]** SplatShield: Adversarial Protection for 3D Gaussian Splatting Against Instruction-Guided Editing [[Paper](https://ieeexplore.ieee.org/abstract/document/11630531)]
 - **[arXiv 2026]** GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2605.12919)]
 - **[ICML 2026]** AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing [[Paper](https://arxiv.org/abs/2512.07247)]
 - **[NeurIPS 2025]** DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting [[Paper](https://openreview.net/forum?id=Lm4VIXVIuy)]
