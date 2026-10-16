@@ -32,6 +32,9 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[ECCV 2026]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
+- **[MICCAI 2026]** SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-38233-7_53)]
+- **[Journal of Information Security and Applications]** GaussMark: A key-projected QIM native watermarking method for 3D Gaussian splatting [[Paper](https://www.sciencedirect.com/science/article/pii/S2214212626002851?)]
 - **[Journal of the Optical Society of America A 2026]** LightGuard: Shedding Light on Copyright Protection for Relightable Gaussian Splatting [[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-43-9-E19)]
 - **[ICIC 2026]** Sparse WaterGS: Efficient Watermarking for Sparse-View Reconstructed 3D Gaussian [[Paper](https://books.google.com.sg/books?hl=en&lr=&id=X0b1EQAAQBAJ&oi=fnd&pg=PA41&dq=+Sparse+WaterGS:+Efficient+Watermarking+for+Sparse-View+Reconstructed+3D+Gaussian&ots=OQhCTwUlO5&sig=Yl2gnrl4UXsgdHmKz9N5fvCUdFo&redir_esc=y#v=onepage&q=Sparse%20WaterGS%3A%20Efficient%20Watermarking%20for%20Sparse-View%20Reconstructed%203D%20Gaussian&f=false)]
 - **[Applied Sciences 2026]** Uncertainty-Guided Zero-Watermarking for 3D Gaussian Splatting [[Paper](https://www.mdpi.com/2076-3417/16/11/5645)]
@@ -49,7 +52,6 @@ This repository is maintained alongside our survey and will be continuously upda
 - **[ICLR 2026]** NGS-Marker: Robust Native Watermarking for 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=yli4zJhJB0)]
 - **[ICLR 2026]** CompMarkGS: Robust Watermarking for Compressed 3D Gaussian Splatting [[Paper](https://openreview.net/forum?id=NXQvejGBFx)][[Code](https://github.com/kuai-lab/iclr26_CompMarkGS)]
 - **[Pattern Recognition Letters 2026]** VoMarkSplat: Robust Watermarking for 3D Gaussian Splatting with Patch and Multi-Convolutional Voting [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865526000711)]
-- **[arXiv 2025]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
 - **[arXiv 2025]** GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model [[Paper](https://arxiv.org/abs/2503.00531)]
 - **[arXiv 2025]** GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting [[Paper](https://arxiv.org/abs/2503.18718)]
 - **[arXiv 2025]** RDSplat: Robust Watermarking for 3D Gaussian Splatting Against 2D and 3D Diffusion Editing [[Paper](https://arxiv.org/abs/2512.06774)]
