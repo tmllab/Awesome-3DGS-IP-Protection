@@ -32,6 +32,7 @@ This repository is maintained alongside our survey and will be continuously upda
 
 ## Data-level Protection
 ### Watermarking
+- **[arXiv 2026]** FlyMark: Training-Free Invisible Watermarking of 3D Gaussian Splatting via a Fruit Fly Connectome [[Paper](https://arxiv.org/abs/2610.11364)]
 - **[ECCV 2026]** X-SG^2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks [[Paper](https://arxiv.org/abs/2502.10475)]
 - **[MICCAI 2026]** SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-38233-7_53)]
 - **[Journal of Information Security and Applications]** GaussMark: A key-projected QIM native watermarking method for 3D Gaussian splatting [[Paper](https://www.sciencedirect.com/science/article/pii/S2214212626002851?)]
